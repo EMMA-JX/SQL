@@ -1,0 +1,17 @@
+Nurse:
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (5338171775, 800100, 606);
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (2242096060, 800200, 707);
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (6662523313, 800300, 808);
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (0510456804, 900100, 909);
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (6986128312, 900200, 1010);
+insert into Nurse1_DATA (EmployeeID, Room_number, NurseID) values (0516504940, 900300, 1111);
+
+
+staff:
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (5548338048, 'MON WED FRI', '$55.49', 'pharmacist', 222);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (6102769333, 'SAT SUN', '$24.35', 'Hositailzation Carer', 555);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (7866636982, 'MON WED FRI', '$55.10', 'pharmacist', 333);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (3124598156, 'TUE WED THU FRI', '$30.16', 'Cleaner', 914);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (9294158381, 'SAT SUN', '$33.65', 'Human Resources', 105);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (8779499384, 'SAT SUN', '$26.96', 'Cleaner', 117);
+insert into Staff1_DATA (EmployeeID, working_hours, hourly_salary, Job_type, StaffID) values (6231196984, 'MON WED FRI', '$33.89', 'Hositailzation Carer', 666);
